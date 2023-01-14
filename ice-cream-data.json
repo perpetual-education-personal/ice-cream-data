@@ -9,4 +9,13 @@
 			"Marshmallow"
 		]
 	}
+	{
+		"id": "29jlls",
+		"name": "Chocolate Malted Crunch",
+		"flavor": "chocolate base",
+		"ingredients": [
+			"rice krispies",
+			"chocolate chunks",
+		]
+	}
 ]
