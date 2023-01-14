@@ -8,5 +8,25 @@
 			"Budge",
 			"Marshmallow"
 		]
+	},
+
+	{
+		"id": "daieuk3",
+		"name": "Mint Chocolate Chip",
+		"flavor": "the best",
+		"ingredients": [
+			"mint", 
+			"chocolate chips", 
+			"vanilla ice cream"
+		]
+	}
+	{
+		"id": "29jlls",
+		"name": "Chocolate Malted Crunch",
+		"flavor": "chocolate base",
+		"ingredients": [
+			"rice krispies",
+			"chocolate chunks",
+		]
 	}
 ]
