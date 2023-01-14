@@ -39,4 +39,15 @@
 			"Sugar"
 		]
 	}
+
+	{ 
+		"id": "33489457",
+		"name": "Special Breakfast",
+		"flavor": "Divine",
+		"ingredients": [
+			"Bourbon ice cream",
+			"Canilla bean"
+			"Corn flakes"
+		]
+	}	
 ]
