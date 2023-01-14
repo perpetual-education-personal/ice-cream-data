@@ -9,4 +9,14 @@
 			"Marshmallow"
 		]
 	}
+	{
+		"id": "123456",
+		"name": "Stawberry",
+		"flavor": "Tart", 
+		"ingredient": [
+			"Strawberries",
+			"Cream",
+			"Sugar"
+		]
+	}
 ]
