@@ -5,7 +5,7 @@
 		"flavor": "Well, it's kinda like...",
 		"ingredients": [
 			"Peanuts",
-			"Budge",
+			"Bridge",
 			"Marshmallow"
 		]
 	},
@@ -47,6 +47,16 @@
 			"Oreos",
 			"Cream",
 		]
-	}
+	},
+
+	{
+		"id": "ewjk3kdj",
+		"name": "Butterscotch",
+		"flavor": "It's ok",
+		"ingredients": [
+			"butterscotch",
+			"I don't even know"
+		]
+	},
 
 ]
