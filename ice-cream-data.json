@@ -1,7 +1,7 @@
 [
 	{
 		"id": "sjfd676",
-		"name": "Rockey Road",
+		"name": "Rockey Roadz",
 		"flavor": "Well, it's kinda like...",
 		"ingredients": [
 			"Peanuts",
@@ -56,13 +56,13 @@
 			"I don't even know"
 		]
 	},
-		{
+	{
 		"id": "sjf789098",
 		"name": "Pistachio",
 		"flavor": "Awesome",
 		"ingredients": [
 			"Green",
-			"Cream",
+			"Cream"
 		]
 	},
 
@@ -72,7 +72,7 @@
 		"flavor": "Divine",
 		"ingredients": [
 			"Bourbon ice cream",
-			"Canilla bean"
+			"Canilla bean",
 			"Corn flakes"
 		]
 	},
@@ -86,4 +86,16 @@
 			"Sugar",
 			"Rubber"
 		]
+	},
+	{ 
+		"id": "6eLkj",
+		"name": "coffee",
+		"flavor": "so yummy",
+		"ingredients": [
+			"coffee",
+			"vanilla"
+		]
 	}
+
+]
+>>>>>>> 9b8d7b59ce64b04809b8a93a7428321e02d4a1ff
