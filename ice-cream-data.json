@@ -65,6 +65,17 @@
 			"Cream"
 		]
 	},
+	{
+		"id": "jfkdsafu987987",
+		"name": "Rose",
+		"flavor": "Rose",
+		"color": "Pink",
+		"ingredients": [
+			"Cream",
+			"Sugar",
+			"Rose water"
+		]
+	},
 	{ 
 		"id": "33489457",
 		"name": "Special Breakfast",
