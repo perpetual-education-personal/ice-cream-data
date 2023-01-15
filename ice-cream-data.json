@@ -5,38 +5,55 @@
 		"flavor": "Well, it's kinda like...",
 		"ingredients": [
 			"Peanuts",
-			"Smudge",
+			"Fudge",
 			"Marshmallow"
 		]
 	},
-
 	{
 		"id": "daieuk3",
 		"name": "Mint Chocolate Chip",
 		"flavor": "the best",
 		"ingredients": [
-			"mint", 
-			"chocolate chips", 
+			"mint",
+			"chocolate chips",
 			"vanilla ice cream"
 		]
-	}
+	},
 	{
 		"id": "29jlls",
 		"name": "Chocolate Malted Crunch",
 		"flavor": "chocolate base",
 		"ingredients": [
 			"rice krispies",
-			"chocolate chunks",
+			"chocolate chunks"
 		]
-	}
+	},
 	{
 		"id": "123456",
 		"name": "Stawberry",
-		"flavor": "Tart", 
+		"flavor": "Tart",
 		"ingredient": [
 			"Strawberries",
 			"Cream",
 			"Sugar"
+		]
+	},
+	{
+		"id": "sjfd677",
+		"name": "Oreos & Cream",
+		"flavor": "Delicious",
+		"ingredients": [
+			"Oreos",
+			"Cream"
+		]
+	},
+	{
+		"id": "ewjk3kdj",
+		"name": "Butterscotch",
+		"flavor": "It's ok",
+		"ingredients": [
+			"butterscotch",
+			"I don't even know"
 		]
 	}
 
