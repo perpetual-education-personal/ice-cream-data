@@ -4,7 +4,7 @@
 		"name": "Rocky Road",
 		"flavor": "Well, it's kinda like...",
 		"ingredients": [
-			"Peanuts",
+			"Peanutz",
 			"Liquid Chocolate",
 			"Bridge",
 			"Marshmallow"
@@ -16,7 +16,7 @@
 		"flavor": "the best",
 		"ingredients": [
 			"mint",
-			"chocolate chips",
+			"chocolate chipz",
 			"vanilla ice cream"
 		]
 	},
@@ -24,7 +24,7 @@
 		"id": "29jlls",
 		"name": "Chocolate Malted Crunch",
 		"flavor": "chocolate base",
-		"ingredients": [
+		"ingredientz": [
 			"rice krispies",
 			"chocolate chunks"
 		]
@@ -34,7 +34,7 @@
 		"name": "Stawberry",
 		"flavor": "Tart", 
 		"ingredient": [
-			"Strawberries",
+			"Strawberriez",
 			"Cream",
 			"Sugar"
 		]
@@ -54,7 +54,8 @@
 		"flavor": "It's ok",
 		"ingredients": [
 			"butterscotch",
-			"I don't even know"]
+			"I don't even know"
+		]
 	},
 	{
 		"id": "sjf789098", 
@@ -78,12 +79,22 @@
 	},
 	{ 
 		"id": "33489457",
-		"name": "Special Breakfast",
+		"name": "Special Breakfazt",
 		"flavor": "Divine",
 		"ingredients": [
 			"Bourbon ice cream",
 			"Vanilla bean",
 			"Corn flakes"
+		]
+	},
+	{
+		"id": "4456654335",
+		"name": "Vanilla",
+		"flavor": "THE BEST",
+		"ingredients": [
+			"heaven",
+			"love",
+			"milk"
 		]
 	},
 	{
@@ -107,5 +118,6 @@
 		]
 	} 
 ]
+
 
 
