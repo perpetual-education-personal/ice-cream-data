@@ -31,7 +31,7 @@
 	{
 		"id": "123456",
 		"name": "Stawberry",
-		"flavor": "Tart",
+		"flavor": "Tart", 
 		"ingredient": [
 			"Strawberries",
 			"Cream",
@@ -57,13 +57,23 @@
 		]
 	},
 
+	{
+		"id": "sjf789098",
+		"name": "Pistachio",
+		"flavor": "Awesome",
+		"ingredients": [
+			"Green",
+			"Cream"
+		]
+	},
+
 	{ 
 		"id": "33489457",
 		"name": "Special Breakfast",
 		"flavor": "Divine",
 		"ingredients": [
 			"Bourbon ice cream",
-			"Canilla bean"
+			"Canilla bean",
 			"Corn flakes"
 		]
 	},
