@@ -9,14 +9,14 @@
 			"Bridge",
 			"Marshmallow"
 		]
-	}, 
+	},
 	{
 		"id": "daieuk3",
 		"name": "Mint Chocolate Chip",
 		"flavor": "the best",
 		"ingredients": [
-			"mint", 
-			"chocolate chips", 
+			"mint",
+			"chocolate chips",
 			"vanilla ice cream"
 		]
 	},
@@ -26,7 +26,7 @@
 		"flavor": "chocolate base",
 		"ingredients": [
 			"rice krispies",
-			"chocolate chunks",
+			"chocolate chunks"
 		]
 	},
 	{
@@ -38,14 +38,14 @@
 			"Cream",
 			"Sugar"
 		]
-	} 
+	},
 	{
 		"id": "sjfd677",
 		"name": "Oreos & Cream",
 		"flavor": "Delicious",
 		"ingredients": [
 			"Oreos",
-			"Cream",
+			"Cream"
 		]
 	},
 	{
@@ -57,4 +57,32 @@
 			"I don't even know"
 		]
 	},
+	{
+		"id": "sjf789098",
+		"name": "Pistachio",
+		"flavor": "Awesome",
+		"ingredients": [
+			"Green",
+			"Cream"
+		]
+	},
+	{ 
+		"id": "33489457",
+		"name": "Special Breakfast",
+		"flavor": "Divine",
+		"ingredients": [
+			"Bourbon ice cream",
+			"Vanilla bean",
+			"Corn flakes"
+		]
+	},
+	{ 
+		"id": "6eLkj",
+		"name": "coffee",
+		"flavor": "so yummy",
+		"ingredients": [
+			"coffee",
+			"vanilla"
+		]
+	}
 ]
