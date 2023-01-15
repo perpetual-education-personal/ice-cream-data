@@ -49,16 +49,15 @@
 		]
 	},
 	{
-		"id": "ewjk3kdj",
-		"name": "Butterscotch",
+		"id": "ewjk3kdj", 
+		"name": "Butterscotch", 
 		"flavor": "It's ok",
 		"ingredients": [
 			"butterscotch",
-			"I don't even know"
-		]
+			"I don't even know"]
 	},
 	{
-		"id": "sjf789098",
+		"id": "sjf789098", 
 		"name": "Pistachio",
 		"flavor": "Awesome",
 		"ingredients": [
