@@ -1,11 +1,12 @@
 [
 	{
 		"id": "sjfd676",
-		"name": "Rockey Road",
+		"name": "Rocky Road",
 		"flavor": "Well, it's kinda like...",
 		"ingredients": [
 			"Peanuts",
-			"Fudge",
+			"Liquid Chocolate",
+			"Bridge",
 			"Marshmallow"
 		]
 	},
@@ -48,17 +49,15 @@
 		]
 	},
 	{
-		"id": "ewjk3kdj",
-		"name": "Butterscotch",
+		"id": "ewjk3kdj", 
+		"name": "Butterscotch", 
 		"flavor": "It's ok",
 		"ingredients": [
 			"butterscotch",
-			"I don't even know"
-		]
+			"I don't even know"]
 	},
-
 	{
-		"id": "sjf789098",
+		"id": "sjf789098", 
 		"name": "Pistachio",
 		"flavor": "Awesome",
 		"ingredients": [
@@ -66,18 +65,27 @@
 			"Cream"
 		]
 	},
-
 	{ 
 		"id": "33489457",
 		"name": "Special Breakfast",
 		"flavor": "Divine",
 		"ingredients": [
 			"Bourbon ice cream",
-			"Canilla bean",
+			"Vanilla bean",
 			"Corn flakes"
 		]
 	},
-
+	{
+		"id": "334899767",
+		"name": "Bubblegum",
+		"flavor": "Unknown",
+		"ingredients": [
+			"Bubblegum",
+			"Blue Dye",
+			"Sugar",
+			"Rubber"
+		]
+	},
 	{ 
 		"id": "6eLkj",
 		"name": "coffee",
@@ -88,3 +96,5 @@
 		]
 	} 
 ]
+
+
