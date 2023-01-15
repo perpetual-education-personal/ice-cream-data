@@ -9,14 +9,13 @@
 			"Marshmallow"
 		]
 	},
-
 	{
 		"id": "daieuk3",
 		"name": "Mint Chocolate Chip",
 		"flavor": "the best",
 		"ingredients": [
-			"mint", 
-			"chocolate chips", 
+			"mint",
+			"chocolate chips",
 			"vanilla ice cream"
 		]
 	},
@@ -26,13 +25,13 @@
 		"flavor": "chocolate base",
 		"ingredients": [
 			"rice krispies",
-			"chocolate chunks",
+			"chocolate chunks"
 		]
 	},
 	{
 		"id": "123456",
 		"name": "Stawberry",
-		"flavor": "Tart", 
+		"flavor": "Tart",
 		"ingredient": [
 			"Strawberries",
 			"Cream",
@@ -45,10 +44,9 @@
 		"flavor": "Delicious",
 		"ingredients": [
 			"Oreos",
-			"Cream",
+			"Cream"
 		]
 	},
-
 	{
 		"id": "ewjk3kdj",
 		"name": "Butterscotch",
@@ -57,5 +55,5 @@
 			"butterscotch",
 			"I don't even know"
 		]
-	},
+	}
 ]
