@@ -55,7 +55,7 @@
 			"butterscotch",
 			"I don't even know"
 		]
-	}
+	},
 
 	{ 
 		"id": "33489457",
@@ -66,5 +66,16 @@
 			"Canilla bean"
 			"Corn flakes"
 		]
-	}	
+	},
+
+	{ 
+		"id": "6eLkj",
+		"name": "coffee",
+		"flavor": "so yummy",
+		"ingredients": [
+			"coffee",
+			"vanilla"
+		]
+	}
+
 ]
